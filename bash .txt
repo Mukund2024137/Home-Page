@@ -1,0 +1,17 @@
+/my-gaming-website
+  /games
+    tic-tac-toe.html
+    snake.html
+    minesweeper.html
+    2048.html
+    memory-match.html
+  /styles
+    style.css
+  /scripts
+    tic-tac-toe.js
+    snake.js
+    minesweeper.js
+    2048.js
+    memory-match.js
+  index.html
+
